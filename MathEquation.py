@@ -1,3 +1,5 @@
+# python 3.12.1
+
 import random
 
 def generate_equation():
@@ -12,7 +14,7 @@ for _ in range(5):
     num_1, X, answer = generate_equation()
     message = "Solve the equation " + str(num_1) + " * " + '𝑥 ' + ' = ' + str(answer)
     print(message)
-    user_answer = float(input("Your answer: "))
+    user_answer = float(input("Your answer for X (1 dp if required) : "))
     user_answer = round(user_answer, 1)
     X = round(X,1)
 
