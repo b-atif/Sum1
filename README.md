@@ -55,6 +55,15 @@ This program generates a random equation in Python using the python library: ran
 
 # Explanation of code
 
+<img width="96" alt="image" src="https://github.com/user-attachments/assets/5d2bb1d1-fe17-445b-bcc8-0526915930f1" />
+
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/43637374-5cc0-4a02-ae32-157c9222ff71" />
+
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/3a014c9d-fe30-42e4-9470-8f38d54fe3af" />
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/d16b2328-88cf-447f-9e24-6d43724e0818" />
+
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/740e5bc7-8a86-4ee8-82a5-47b1656d181b" />
 
 
 
