@@ -31,5 +31,7 @@ Example Gameplay:
 
 ## Technical Documentation
 
+To clone this repository:
+
 ```bash
-git clone 
+git clone https://github.com/b-atif/Sum1.git
