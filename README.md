@@ -4,7 +4,7 @@
 
 This is a simple algebraic math equation game designed to hep users practice their algebra. The game presents the user to a random equation for which they are tasked to solve for the value '𝑥'. They are presented with 5 random equations to solve and then recieve a total score out of 5 for however many were correct.
 
-# User Guide
+## User Guide
 
 # Welcome to the Math Algebraic Equation game!
 This game is a fun way to practice your algebra. You will see a random equation displayed on the screen, and your goal is to solve for '𝑥' and eneter the coreect number (to 1 decimal place if required). You will recieve your score after you have attemempted the 5 equations!
@@ -35,3 +35,28 @@ To clone this repository:
 
 ```bash
 git clone https://github.com/b-atif/Sum1.git
+```
+
+# Program summary
+
+This program generates a random equation in Python using the python library: random. The user will input a value for X, program checks if it's correct and once program is over it output's the total result.
+
+# Logic of code
+
+
+
+# Running the code locally
+
+# How to Run Tests Locally
+
+# Code Maintenance
+
+# Variable naming strategies
+
+# Explanation of code
+
+
+
+
+
+# Limitations
