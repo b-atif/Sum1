@@ -43,6 +43,9 @@ This program generates a random equation in Python using the python library: ran
 
 # Logic of code
 
+The way the input is handled is using the input() function where the user will enter a number for X. If the input is a decimal number, the round() function allows the input to be a value that's given to one decimal place. It also means that if the correct input is a whole number, the user will not have to convert that number into decimal. This number is converted into a float using float() to ensure the program can handle any decimal values that are input.
+
+The logic for determinig the value for X is through dividing the value the equation is equal to (the answer) by the first number in the equation in the equation. Using the 'If' condition statement, if the input value is the same as 'X', the score will add up and print 'Correct!', and using 'else' statement the if the input value is not the same as X , it will print the answer is wrong along with what the correct answer was. Both these messages are printed using the print() function.
 
 
 # Running the code locally
