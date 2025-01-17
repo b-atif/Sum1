@@ -15,7 +15,7 @@ Features:
 
 What you'll need:
 - A python environment installed in your computer
-- Access to a termianl/command prompt
+- Access to a terminal/command prompt
 
 How to play:
 
@@ -29,3 +29,4 @@ Example Gameplay:
 <img width="683" alt="math eqn" src="https://github.com/user-attachments/assets/6e2e497c-3393-4cd9-a7cb-ac5d2a587346" />
 
 
+## Technical Documentation
