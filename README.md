@@ -7,7 +7,7 @@ This is a simple algebraic math equation game designed to hep users practice the
 ## User Guide
 
 # Welcome to the Math Algebraic Equation game!
-This game is a fun way to practice your algebra. You will see a random equation displayed on the screen, and your goal is to solve for '𝑥' and enter the corect number (to 1 decimal place if required). You will receive your score after you have attemempted the 5 equations!
+This game is a fun way to practice your algebra. You will see a random equation displayed on the screen, and your goal is to solve for '𝑥' and enter the correct number (to 1 decimal place if required). You will receive your score after you have attempted the 5 equations!
 
 Features:
 - Randomly generated math equation to solve
@@ -83,7 +83,7 @@ This is importing the 'random' library so we can generate random numbers for the
 
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/43637374-5cc0-4a02-ae32-157c9222ff71" />
 
-Here, we define a function that is reusable and runs the tasks specific to what it has been defined by. The num_1 variable is the firt number in the equation and the answer variable is what the equation is equivalent to that can be used to find out the 'X' variable. The X will always be the 'answer' divided by num_1.
+Here, we define a function that is reusable and runs the tasks specific to what it has been defined by. The num_1 variable is the first number in the equation and the answer variable is what the equation is equivalent to that can be used to find out the 'X' variable. The X will always be the 'answer' divided by num_1.
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/3a014c9d-fe30-42e4-9470-8f38d54fe3af" />
 
