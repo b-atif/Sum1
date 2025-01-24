@@ -50,21 +50,40 @@ The logic for determinig the value for X is through dividing the value the equat
 
 # Running the code locally
 
+To run tests locally, this will be performed on a computer raher than a server. The steps below gives a guide on how to do this:
+- Open a terminal and run the code for the cloned repository mentioned above
+- Install dependencies using the code ```bash pip install -r requirements.txt ``` (please not this is only for requirements.txt files)
+- Ensuring you have Visual Studio Code installed, open the project
+- To run the code execute the code: ```bash python script.py ``` OR you can simply use the 'Run' or play button in VS code
+
 # How to Run Tests Locally
+
+-To run tests locally, there would need to be a testing framework such as unittest or pytest
+This can be installed using: ```bash pip install pytest  ```
+-Locate your test file and run it using the terminal in VS code: ```bash  pytest  ```
+- Once run, the terminal will display which tests have passed and which have failed (adjustments can be made to the ones that have faild and then rerun)
+- Now that the tests have passed this can be pushed to Github
+
+Test Driven Development (TDD) can also be used where you write enough code for the tests to pass and if there is no output when run, all tests pass.
 
 # Code Maintenance
 
-# Variable naming strategies
+Maintaining code is very important for making code undertsandable for yourslef and those you work with. Here are some ways to maintain the code:
+
+- Adding comments using the hash symbol: # (for Python) - used to describe what that specific code is doing etc.
+- Naming conventions in a way that is relevant to the program. In this case I have used num_1, answer, X and user_answer as my variables that are relevant to an algebraic math equation
+- I have used Indentation to make the code neater and easier for a programmer to link parts of the code
+
 
 # Explanation of code
 
 <img width="96" alt="image" src="https://github.com/user-attachments/assets/5d2bb1d1-fe17-445b-bcc8-0526915930f1" />
 
-This is importing
+This is importing THE 'random' library so we can genereate random numbers for the game.
 
 <img width="511" alt="image" src="https://github.com/user-attachments/assets/43637374-5cc0-4a02-ae32-157c9222ff71" />
 
-defining
+Here, we define a function that is reusable and runs the tasks specific to what it has been defined by. The num_1 variable is the firt number in the equation and the answer variable is what the equation is equivalent to that can be used to find out the 'X' variable. The X will always be the 'answer' divided by num_1.
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/3a014c9d-fe30-42e4-9470-8f38d54fe3af" />
 
@@ -79,6 +98,3 @@ user input and round
 output
 
 
-
-
-# Limitations
