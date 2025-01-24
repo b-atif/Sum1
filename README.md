@@ -26,8 +26,19 @@ How to play:
 
 Example Gameplay:
 
-<img width="683" alt="math eqn" src="https://github.com/user-attachments/assets/6e2e497c-3393-4cd9-a7cb-ac5d2a587346" />
+``` Solve the equation 4 * 𝑥  = 14
+Your answer for X (1 dp if required): 3.7
+Wrong. The correct answer was: 3.5    
+Solve the equation 1 * 𝑥  = 20        
+Your answer for X (1 dp if required): 20
+Correct!
+Solve the equation 7 * 𝑥  = 11        
+Your answer for X (1 dp if required): 1.4
+Wrong. The correct answer was: 1.6    
+Solve the equation 6 * 𝑥  = 17        
+Your answer for X (1 dp if required):
 
+```
 
 ## Technical Documentation
 
