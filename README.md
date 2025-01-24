@@ -52,15 +52,15 @@ The logic for determining the value for X is through dividing the value the equa
 
 To run tests locally, this will be performed on a computer rather than a server. The steps below gives a guide on how to do this:
 - Open a terminal and run the code for the cloned repository mentioned above
-- Install dependencies using the code ```bash pip install -r requirements.txt ``` (please not this is only for requirements.txt files)
+- Install dependencies using the code ``` pip install -r requirements.txt ``` (please not this is only for requirements.txt files)
 - Ensuring you have Visual Studio Code installed, open the project
-- To run the code execute the code: ```bash python script.py ``` OR you can simply use the 'Run' or play button in VS code
+- To run the code execute the code: ``` python script.py ``` OR you can simply use the 'Run' or play button in VS code
 
 # How to Run Tests Locally
 
 -To run tests locally, there would need to be a testing framework such as unittest or pytest
-This can be installed using: ```bash pip install pytest  ```
--Locate your test file and run it using the terminal in VS code: ```bash  pytest  ```
+This can be installed using: ``` pip install pytest  ```
+-Locate your test file and run it using the terminal in VS code: ```  pytest  ```
 - Once run, the terminal will display which tests have passed and which have failed (adjustments can be made to the ones that have failed and then rerun)
 - Now that the tests have passed this can be pushed to Github
 
